@@ -1,0 +1,4 @@
+C:\Users\G54\OneDrive\문서\ML Mastering\Python ML Mastering\obj\Debug\net8.0\Python ML Mastering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G54\OneDrive\문서\ML Mastering\Python ML Mastering\obj\Debug\net8.0\Python ML Mastering.AssemblyInfoInputs.cache
+C:\Users\G54\OneDrive\문서\ML Mastering\Python ML Mastering\obj\Debug\net8.0\Python ML Mastering.AssemblyInfo.cs
+C:\Users\G54\OneDrive\문서\ML Mastering\Python ML Mastering\obj\Debug\net8.0\Python ML Mastering.csproj.CoreCompileInputs.cache
